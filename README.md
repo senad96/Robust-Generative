@@ -1,13 +1,13 @@
 <br/>
 <p align="center">
   <a href="https://github.com//Robust-Generative">
-    <img src="images/inversion_c.png" alt="Logo" width="160" height="80">
+    <img src="images/inversion_c.png" alt="Logo" width="340" height="160">
   </a>
 
   <h3 align="center">Robust-Generative</h3>
 
   <p align="center">
-    Repository of the paper "Exploring the Connection between Robust and Generative Models" 
+    Repository of the paper ["Exploring the Connection between Robust and Generative Models"](https://arxiv.org/abs/2304.04033)
     <br/>
     <br/>
   </p>

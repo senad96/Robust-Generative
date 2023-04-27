@@ -1,13 +1,13 @@
 <br/>
 <p align="center">
   <a href="https://github.com//Robust-Generative">
-    <img src="images/inverse_c.png" alt="Logo" width="80" height="80">
+    <img src="images/inversion_c.png" alt="Logo" width="160" height="80">
   </a>
 
   <h3 align="center">Robust-Generative</h3>
 
   <p align="center">
-    Repository of the paper "Exploring the Connection between Robust and Generative Models"
+    Repository of the paper "Exploring the Connection between Robust and Generative Models" 
     <br/>
     <br/>
   </p>
@@ -29,19 +29,13 @@ You can replicate the results on the notebooks jupyter.
 
 Requirements are described in the requirements file.
 
-## Usage
+### Usage
 
 The detector and the HE-PGD algorithm can be used to defend and attack neural networks.
 _For more details, please refer to the [paper](https://arxiv.org/abs/2304.04033)_
 
-### Creating A Pull Request
 
-
-## License
-
-Distributed under the MIT License. See [LICENSE](https://github.com//Robust-Generative/blob/main/LICENSE.md) for more information.
-
-## BibTeX Citation
+### BibTeX Citation
 
 If you find the paper interesting and you'll use in your research, we appreciate if you cite the paper :)
 
@@ -53,9 +47,6 @@ If you find the paper interesting and you'll use in your research, we appreciate
   year={2023}
 }
 ```
+### License
 
-
-## Authors
-
-* **Senad Beadini** - ** - [Senad Beadini]() - **
-* **Iacopo Masi** - ** - [Iacopo Masi]() - **
+Distributed under the MIT License. See [LICENSE](https://github.com//Robust-Generative/blob/main/LICENSE.md) for more information.

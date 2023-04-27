@@ -49,4 +49,4 @@ If you find the paper interesting and you'll use in your research, we appreciate
 ```
 ### License
 
-Distributed under the MIT License. See [LICENSE](https://github.com//Robust-Generative/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/senad96/Robust-Generative/blob/main/LICENSE) for more information.

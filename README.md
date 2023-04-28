@@ -40,10 +40,10 @@ _For more details, please refer to the [paper](https://arxiv.org/abs/2304.04033)
 If you find the paper interesting and you'll use in your research, we appreciate if you cite the paper :)
 
 ```
-@article{beadini2023exploring,
+@inproceedings{beadini2023exploring,
   title={Exploring the Connection between Robust and Generative Models},
   author={Beadini, Senad and Masi, Iacopo},
-  journal={arXiv preprint arXiv:2304.04033},
+  booktitle={Ital-{I}{A}, {W}orkshop on AI for Cybersecurity},
   year={2023}
 }
 ```

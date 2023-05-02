@@ -4,7 +4,7 @@
     <img src="images/inversion_c.png" alt="Logo" width="340" height="180">
   </a>
 
-  <h3 align="center">Robust-Generative</h3>
+  <h3 align="center">Exploring the Connection between Robust and Generative Models</h3>
 
   <p align="center">
     Repository of the paper "Exploring the Connection between Robust and Generative Models"(https://arxiv.org/abs/2304.04033)
